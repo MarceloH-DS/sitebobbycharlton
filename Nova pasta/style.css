@@ -1,0 +1,30 @@
+body{
+background-color: #cccccc;
+}
+
+nav{
+    top: 110px;
+    text-align: center;
+}
+
+nav li { 
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+h1 {color: blue;
+font-family: 'Lucida Sans';
+text-align: center;}
+
+h2 {font-family:'Lucida Sans';
+text-align: center;}
+
+p {font-family: 'Lucida Sans';}
